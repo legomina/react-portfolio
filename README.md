@@ -1,2 +1,2 @@
-# Igor Legomina React Portfoli Application
+# Igor Legomina React Portflio Application
 
